@@ -19,7 +19,6 @@
 <button type="button"><h1>Uses</h1></button>
 
 <h1><font color="white">DRONE</font></h1>
-<center>
-<img src="untitled-7.png" class="rotate" width="500" height="500" />
+<img src="drone final.jpg" alt="DRONE" width="500" height="600">
 </body>
 </html>
