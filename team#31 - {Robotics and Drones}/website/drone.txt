@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head><title>Fire Rescue Drone</title></head>
-<body background="g.jpeg">
-<h1>Our prototype</h1>
-</body>
-</html>
